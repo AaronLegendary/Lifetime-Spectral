@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Aaron.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Aaron idle0000" x="0" y="0" width="267" height="439" frameX="0" frameY="-27" frameWidth="267" frameHeight="467"/>
+	<SubTexture name="Aaron idle0001" x="267" y="0" width="266" height="441" frameX="0" frameY="-26" frameWidth="267" frameHeight="467"/>
+	<SubTexture name="Aaron idle0002" x="533" y="0" width="263" height="443" frameX="-2" frameY="-24" frameWidth="267" frameHeight="467"/>
+	<SubTexture name="Aaron idle0003" x="796" y="0" width="257" height="447" frameX="-5" frameY="-20" frameWidth="267" frameHeight="467"/>
+	<SubTexture name="Aaron idle0004" x="1053" y="0" width="248" height="453" frameX="-10" frameY="-14" frameWidth="267" frameHeight="467"/>
+	<SubTexture name="Aaron idle0005" x="1301" y="0" width="240" height="459" frameX="-14" frameY="-8" frameWidth="267" frameHeight="467"/>
+	<SubTexture name="Aaron idle0006" x="1541" y="0" width="235" height="463" frameX="-18" frameY="-4" frameWidth="267" frameHeight="467"/>
+	<SubTexture name="Aaron idle0007" x="1776" y="0" width="234" height="466" frameX="-20" frameY="-1" frameWidth="267" frameHeight="467"/>
+	<SubTexture name="Aaron idle0008" x="0" y="466" width="234" height="467" frameX="-20" frameY="0" frameWidth="267" frameHeight="467"/>
+	<SubTexture name="Aaron idle0009" x="0" y="466" width="234" height="467" frameX="-20" frameY="0" frameWidth="267" frameHeight="467"/>
+	<SubTexture name="Aaron idle0010" x="0" y="466" width="234" height="467" frameX="-20" frameY="0" frameWidth="267" frameHeight="467"/>
+	<SubTexture name="Aaron idle0011" x="0" y="466" width="234" height="467" frameX="-20" frameY="0" frameWidth="267" frameHeight="467"/>
+	<SubTexture name="Aaron idle0012" x="0" y="466" width="234" height="467" frameX="-20" frameY="0" frameWidth="267" frameHeight="467"/>
+	<SubTexture name="Aaron idle0013" x="0" y="466" width="234" height="467" frameX="-20" frameY="0" frameWidth="267" frameHeight="467"/>
+</TextureAtlas>

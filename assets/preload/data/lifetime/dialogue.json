@@ -1,0 +1,276 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "ehhh...",
+			"boxState": "normal",
+			"sound": "BF_Speak",
+			"speed": 0.105,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Hey babe, How long that i have been waiting for the opponent?",
+			"boxState": "normal",
+			"sound": "BF_Speak",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "For like 6 hours...",
+			"boxState": "normal",
+			"sound": "GF_Speak",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "Yeah, still waiting for your opponent...",
+			"boxState": "normal",
+			"sound": "GF_Speak",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "for like it said, there is so many people in this town.",
+			"boxState": "normal",
+			"sound": "GF_Speak",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "Yeah, but this town it called middletown deluxe",
+			"boxState": "normal",
+			"sound": "BF_Speak",
+			"speed": 0.08,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh well.",
+			"boxState": "normal",
+			"sound": "BF_Speak",
+			"speed": 0.02,
+			"portrait": "bf"
+		},
+		{
+			"sound": "AARON_Speak",
+			"speed": 0.5,
+			"portrait": "aaron",
+			"boxState": "normal",
+			"expression": "Confused STATIC END",
+			"text": "..."
+		},
+		{
+			"sound": "AARON_Speak",
+			"speed": 0.2,
+			"portrait": "aaron",
+			"boxState": "normal",
+			"expression": "Confused STATIC END",
+			"text": "???"
+		},
+		{
+			"sound": "AARON_Speak",
+			"speed": 0.05,
+			"portrait": "aaron",
+			"boxState": "normal",
+			"expression": "Confused STATIC END",
+			"text": "!!!"
+		},
+		{
+			"sound": "AARON_Speak",
+			"speed": 0.06,
+			"portrait": "aaron",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "Hey, are you boyfriend?"
+		},
+		{
+			"sound": "BF_Speak",
+			"speed": 0.13,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Huh?"
+		},
+		{
+			"sound": "BF_Speak",
+			"speed": 0.165,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "yeah.?"
+		},
+		{
+			"sound": "AARON_Speak",
+			"speed": 0.08,
+			"portrait": "aaron",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "And, your girlfriend?"
+		},
+		{
+			"sound": "GF_Speak",
+			"speed": 0.075,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yes."
+		},
+		{
+			"sound": "GF_Speak",
+			"speed": 0.065,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "But. how did you know us?"
+		},
+		{
+			"sound": "BF_Speak",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Yeah. for like you know my name but who are you?"
+		},
+		{
+			"sound": "AARON_Speak",
+			"speed": 0.05,
+			"portrait": "aaron",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "Oh uhh, how do i know you?"
+		},
+		{
+			"sound": "AARON_Speak",
+			"speed": 0.05,
+			"portrait": "aaron",
+			"boxState": "normal",
+			"expression": "Natural",
+			"text": "Well that was simple."
+		},
+		{
+			"sound": "AARON_Speak",
+			"speed": 0.05,
+			"portrait": "aaron",
+			"boxState": "normal",
+			"expression": "Natural",
+			"text": "I saw you rapping mr. dearest and ms.\\nmearest for your girlfriend."
+		},
+		{
+			"sound": "AARON_Speak",
+			"speed": 0.05,
+			"portrait": "aaron",
+			"boxState": "normal",
+			"expression": "Natural",
+			"text": "you also rap that blue shirted teenager who has no common scenes."
+		},
+		{
+			"sound": "AARON_Speak",
+			"speed": 0.05,
+			"portrait": "aaron",
+			"boxState": "normal",
+			"expression": "Natural",
+			"text": "You also rap that female black hair thailand programmer."
+		},
+		{
+			"sound": "AARON_Speak",
+			"speed": 0.05,
+			"portrait": "aaron",
+			"boxState": "normal",
+			"expression": "Natural",
+			"text": "you rap that apple pie girl and her pet\\nmacaron."
+		},
+		{
+			"sound": "AARON_Speak",
+			"speed": 0.05,
+			"portrait": "aaron",
+			"boxState": "normal",
+			"expression": "Natural",
+			"text": "you also rap that cat who likes DDR Pad."
+		},
+		{
+			"sound": "AARON_Speak",
+			"speed": 0.05,
+			"portrait": "aaron",
+			"boxState": "normal",
+			"expression": "Natural",
+			"text": "your battling those 3 indie game character\\nCup, skeleton and ink monster."
+		},
+		{
+			"sound": "AARON_Speak",
+			"speed": 0.05,
+			"portrait": "aaron",
+			"boxState": "normal",
+			"expression": "Natural",
+			"text": "And finally, I saw you on stage. you rapping cj and ruby."
+		},
+		{
+			"sound": "BF_Speak",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wow, can't emagine that you watch us in the rap battle."
+		},
+		{
+			"sound": "GF_Speak",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah babe, can't believe you heard us."
+		},
+		{
+			"sound": "AARON_Speak",
+			"speed": 0.05,
+			"portrait": "aaron",
+			"boxState": "normal",
+			"expression": "Natural",
+			"text": "But hey."
+		},
+		{
+			"sound": "AARON_Speak",
+			"speed": 0.05,
+			"portrait": "aaron",
+			"boxState": "normal",
+			"expression": "Natural",
+			"text": "Do you want to have a rap battle?"
+		},
+		{
+			"sound": "BF_Speak",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Yeah man! I've been waiting for the hour of the opponent!"
+		},
+		{
+			"sound": "AARON_Speak",
+			"speed": 0.05,
+			"portrait": "aaron",
+			"boxState": "normal",
+			"expression": "Excited",
+			"text": "Oh yeah! you ready for that? I am ready!"
+		},
+		{
+			"sound": "BF_Speak",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Oh yeah! I am all ready!"
+		},
+		{
+			"sound": "GF_Speak",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "WOOO!!! Another epic rap battle to see my hot boyfriend!"
+		}
+	]
+}

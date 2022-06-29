@@ -1,0 +1,129 @@
+{
+	"position": [
+		80,
+		-40
+	],
+	"dialogue_pos": "left",
+	"no_antialiasing": false,
+	"scale": 1.25,
+	"image": "AARON_Dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "Natural",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Natural",
+			"idle_name": "Natural0008"
+		},
+		{
+			"loop_offsets": [
+				-9,
+				-5
+			],
+			"anim": "Confused",
+			"idle_offsets": [
+				-9,
+				-5
+			],
+			"loop_name": "Confused",
+			"idle_name": "Confused0008"
+		},
+		{
+			"loop_offsets": [
+				-25,
+				2
+			],
+			"anim": "Excited",
+			"idle_offsets": [
+				-25,
+				2
+			],
+			"loop_name": "Exciting",
+			"idle_name": "Exciting0008"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "Natural STATIC",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Natural0000",
+			"idle_name": "Natural0000"
+		},
+		{
+			"loop_offsets": [
+				-9,
+				-5
+			],
+			"anim": "Confused STATIC",
+			"idle_offsets": [
+				-9,
+				-5
+			],
+			"loop_name": "Confused0000",
+			"idle_name": "Confused0000"
+		},
+		{
+			"loop_offsets": [
+				-25,
+				2
+			],
+			"anim": "Excited STATIC",
+			"idle_offsets": [
+				-25,
+				2
+			],
+			"loop_name": "Exciting0000",
+			"idle_name": "Exciting0000"
+		},
+		{
+			"loop_name": "Confused0008",
+			"idle_offsets": [
+				-9,
+				-5
+			],
+			"idle_name": "Confused0008",
+			"anim": "Confused STATIC END",
+			"loop_offsets": [
+				-9,
+				-5
+			]
+		},
+		{
+			"loop_name": "Natural0008",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Natural0008",
+			"anim": "Natural STATIC END",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Exciting0008",
+			"idle_offsets": [
+				-25,
+				2
+			],
+			"idle_name": "Exciting0008",
+			"anim": "Excited STATIC END",
+			"loop_offsets": [
+				-25,
+				2
+			]
+		}
+	]
+}

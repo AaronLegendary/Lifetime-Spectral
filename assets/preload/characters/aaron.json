@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Aaron idle"
+		},
+		{
+			"offsets": [
+				31,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Aaron Left"
+		},
+		{
+			"offsets": [
+				-84,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Aaron Right"
+		},
+		{
+			"offsets": [
+				-13,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Aaron Down"
+		},
+		{
+			"offsets": [
+				-3,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Aaron up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Aaron_assets",
+	"position": [
+		-20,
+		150
+	],
+	"healthicon": "aaron",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		255,
+		0
+	],
+	"camera_position": [
+		70,
+		-170
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

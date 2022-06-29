@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Aaron_DanceTitle.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Aaron Dance Beat0000" x="0" y="0" width="272" height="468"/>
+	<SubTexture name="Aaron Dance Beat0001" x="272" y="0" width="272" height="468"/>
+	<SubTexture name="Aaron Dance Beat0002" x="544" y="0" width="272" height="468"/>
+	<SubTexture name="Aaron Dance Beat0003" x="544" y="0" width="272" height="468"/>
+	<SubTexture name="Aaron Dance Beat0004" x="0" y="468" width="272" height="468"/>
+	<SubTexture name="Aaron Dance Beat0005" x="272" y="468" width="272" height="468"/>
+	<SubTexture name="Aaron Dance Beat0006" x="544" y="468" width="272" height="468"/>
+	<SubTexture name="Aaron Dance Beat0007" x="544" y="468" width="272" height="468"/>
+	<SubTexture name="Aaron Dance Beat0008" x="544" y="468" width="272" height="468"/>
+	<SubTexture name="Aaron Dance Beat0009" x="544" y="468" width="272" height="468"/>
+	<SubTexture name="Aaron Dance Beat0010" x="544" y="468" width="272" height="468"/>
+	<SubTexture name="Aaron Dance Beat0011" x="544" y="468" width="272" height="468"/>
+	<SubTexture name="Aaron Dance Beat0012" x="544" y="468" width="272" height="468"/>
+	<SubTexture name="Aaron Dance Beat0013" x="544" y="468" width="272" height="468"/>
+	<SubTexture name="Aaron Dance Beat0014" x="544" y="468" width="272" height="468"/>
+</TextureAtlas>

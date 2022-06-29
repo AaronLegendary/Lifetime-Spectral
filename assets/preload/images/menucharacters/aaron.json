@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Aaron idle",
+	"image": "Menu_Aaron",
+	"position": [
+		11,
+		41
+	],
+	"flipX": false,
+	"scale": 0.55,
+	"confirm_anim": "M Dad Idle"
+}

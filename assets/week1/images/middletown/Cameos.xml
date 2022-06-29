@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cameos.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cameos bop0000" x="0" y="0" width="3209" height="638"/>
+	<SubTexture name="Cameos bop0001" x="3209" y="0" width="3209" height="638"/>
+	<SubTexture name="Cameos bop0002" x="0" y="638" width="3209" height="638"/>
+	<SubTexture name="Cameos bop0003" x="3209" y="638" width="3209" height="638"/>
+	<SubTexture name="Cameos bop0004" x="0" y="1276" width="3209" height="638"/>
+	<SubTexture name="Cameos bop0005" x="3209" y="1276" width="3209" height="638"/>
+	<SubTexture name="Cameos bop0006" x="0" y="1914" width="3209" height="638"/>
+	<SubTexture name="Cameos bop0007" x="3209" y="1914" width="3209" height="638"/>
+	<SubTexture name="Cameos bop0008" x="3209" y="1914" width="3209" height="638"/>
+	<SubTexture name="Cameos bop0009" x="3209" y="1914" width="3209" height="638"/>
+	<SubTexture name="Cameos bop0010" x="3209" y="1914" width="3209" height="638"/>
+	<SubTexture name="Cameos bop0011" x="3209" y="1914" width="3209" height="638"/>
+	<SubTexture name="Cameos bop0012" x="3209" y="1914" width="3209" height="638"/>
+</TextureAtlas>

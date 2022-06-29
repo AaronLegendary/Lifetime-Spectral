@@ -1,0 +1,32 @@
+{
+	"storyName": "the middletown deluxe",
+	"difficulties": "Novice, Easy, Normal, Hard, Tough, Difficult",
+	"hideFreeplay": false,
+	"weekBackground": "middletown",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"lifetime",
+			"aaron",
+			[
+				175,
+				255,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"aaron",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

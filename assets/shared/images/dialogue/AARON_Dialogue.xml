@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AARON_Dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Confused0000" x="0" y="0" width="494" height="539"/>
+	<SubTexture name="Confused0001" x="494" y="0" width="494" height="539"/>
+	<SubTexture name="Confused0002" x="494" y="0" width="494" height="539"/>
+	<SubTexture name="Confused0003" x="988" y="0" width="494" height="539"/>
+	<SubTexture name="Confused0004" x="988" y="0" width="494" height="539"/>
+	<SubTexture name="Confused0005" x="988" y="0" width="494" height="539"/>
+	<SubTexture name="Confused0006" x="1482" y="0" width="494" height="539"/>
+	<SubTexture name="Confused0007" x="1482" y="0" width="494" height="539"/>
+	<SubTexture name="Confused0008" x="1482" y="0" width="494" height="539"/>
+	<SubTexture name="Exciting0000" x="0" y="539" width="505" height="546"/>
+	<SubTexture name="Exciting0001" x="505" y="539" width="505" height="546"/>
+	<SubTexture name="Exciting0002" x="505" y="539" width="505" height="546"/>
+	<SubTexture name="Exciting0003" x="1010" y="539" width="505" height="546"/>
+	<SubTexture name="Exciting0004" x="1010" y="539" width="505" height="546"/>
+	<SubTexture name="Exciting0005" x="1010" y="539" width="505" height="546"/>
+	<SubTexture name="Exciting0006" x="1515" y="539" width="505" height="546"/>
+	<SubTexture name="Exciting0007" x="1515" y="539" width="505" height="546"/>
+	<SubTexture name="Exciting0008" x="1515" y="539" width="505" height="546"/>
+	<SubTexture name="Natural0000" x="0" y="1085" width="501" height="544"/>
+	<SubTexture name="Natural0001" x="501" y="1085" width="501" height="544"/>
+	<SubTexture name="Natural0002" x="501" y="1085" width="501" height="544"/>
+	<SubTexture name="Natural0003" x="1002" y="1085" width="501" height="544"/>
+	<SubTexture name="Natural0004" x="1002" y="1085" width="501" height="544"/>
+	<SubTexture name="Natural0005" x="1002" y="1085" width="501" height="544"/>
+	<SubTexture name="Natural0006" x="1503" y="1085" width="501" height="544"/>
+	<SubTexture name="Natural0007" x="1503" y="1085" width="501" height="544"/>
+	<SubTexture name="Natural0008" x="1503" y="1085" width="501" height="544"/>
+</TextureAtlas>
